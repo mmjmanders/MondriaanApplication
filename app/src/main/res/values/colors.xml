@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="color1" type="color">#F00</item>
+    <item name="color2" type="color">#0F0</item>
+    <item name="color3" type="color">#00F</item>
+    <item name="color4" type="color">#FFF</item>
+    <item name="color5" type="color">#0FF</item>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <!-- application -->
+    <string name="app_name">MondriaanApplication</string>
+
+    <!-- menu -->
+    <string name="more_information">More Information</string>
+
+    <!-- dialog -->
+    <string name="dialog_title">Would you like to visit the MoMA website?</string>
+    <string name="dialog_visit_moma">Visit MoMA</string>
+    <string name="dialog_not_now">Not now</string>
+
+    <string name="moma_url">http://www.moma.org</string>
+</resources>
